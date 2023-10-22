@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @AyushAwasthi2384
-- 👀 I’m interested in Java and Full-Stack Development Online job
+- 👀 I’m interested in Java and Full-Stack Web Development
+- ⚒️ Open to working remotely, and freelance your desired projects
 - 🌱 I’m currently learning all the popular existing languages
-- 💞️ I’m looking to collaborate on freelancing
+- 💞️ I’m looking forward to getting freelance clients and internships as a fresher
 - 📫 How to reach me- ayushawasthicoding@gmail.com
 
 <!---
