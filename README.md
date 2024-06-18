@@ -3,9 +3,7 @@ I’m Ayush, a creative and passionate web developer from India’s vibrant land
 
 ## Projects I'm working on
 
-### Canva Clone
-
-A web application that allows users to create and edit graphics, similar to Canva.
+### Blog sites Automation
 
 ### Ed-Tech Institution Website with ERP Implementation
 
