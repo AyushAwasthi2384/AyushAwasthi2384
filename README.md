@@ -21,8 +21,8 @@ I'm deeply passionate about technology and actively involved in the college comm
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AyushAwasthi2384&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushAwasthi2384&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AyushAwasthi2384&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🔝 Contribution Stats
+![AyushAwasthi2384's Stats](https://github-readme-stats.vercel.app/api?username=AyushAwasthi2384&theme=merko&show_icons=true&hide_border=false&count_private=true)
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
