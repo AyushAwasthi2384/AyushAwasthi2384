@@ -3,9 +3,8 @@ I’m Ayush, a creative and passionate web developer from India’s vibrant land
 
 ## Projects I'm working on
  
-- ### Kiyo: AI Driven Internship Management Portal with AI PM
-- ### IRL Social([irlsocial.in](https://www.irlsocial.in/))
-- ### ERP Implementation 
+- ### CallwiseAI: Agentic CRM
+- ### Enterprise Systems 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ayush_2384/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush2384) 
