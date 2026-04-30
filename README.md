@@ -1,44 +1,64 @@
-# 💫 About Me: 
-I’m Ayush, a creative and passionate web developer from India’s vibrant landscape with more than 4 years of hands-on experience in Web Development. My tech stack is MERN and I have knowledge of some CSS frameworks like Bootstrap, Tailwind, MUI, React Bootstrap, and some knowledge of NextJS and Vue.
+<h1 align="center">Ayush Awasthi</h1>
+<h3 align="center">Building Kiyo | Founder & CEO @ Vivax | Entrepreneurial Technologist</h3>
 
-## Projects I'm working on
- 
-- ### CallwiseAI: Agentic CRM
-- ### Enterprise Systems 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ayush_2384/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush2384) 
-
-## 🚀 Community Work and Contests
-
-I'm deeply passionate about technology and actively involved in the college community. I hold leadership positions in AlgoZenith Technical Club and Coding Ninjas Community, where I've spearheaded initiatives to arrange events. Recently, I ranked under 10 in HackCBS 6.0 with my project on a social media creators collaboration platform. I'm also an avid hackathon enthusiast. I'm always eager to learn, collaborate, and build impactful solutions.
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-<!-- ![](https://github-readme-stats.vercel.app/api?username=AyushAwasthi2384&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
-[![AyushAwasthi2384's Streak](https://streak-stats.demolab.com/?user=AyushAwasthi2384&theme=vision-friendly-dark)](https://git.io/streak-stats)
-![AyushAwasthi2384's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushAwasthi2384&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact)
-
-### 🔝 Contribution Stats
-![AyushAwasthi2384's Stats](https://github-readme-stats.vercel.app/api?username=AyushAwasthi2384&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true)
-
-### 🏆 Github Tropies
-![](https://github-trophies.vercel.app/?username=AyushAwasthi2384&theme=matrix&no-frame=true&no-bg=false&margin-w=4)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayush2384"><img src="https://img.shields.io/badge/LinkedIn-0077b5?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMjU2JyBoZWlnaHQ9JzI1NicgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJyBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSd4TWlkWU1pZCcgdmlld0JveD0nMCAwIDI1NiAyNTYnPjxwYXRoIGQ9J00yMTguMTIzIDIxOC4xMjdoLTM3LjkzMXYtNTkuNDAzYzAtMTQuMTY1LS4yNTMtMzIuNC0xOS43MjgtMzIuNC0xOS43NTYgMC0yMi43NzkgMTUuNDM0LTIyLjc3OSAzMS4zNjl2NjAuNDNoLTM3LjkzVjk1Ljk2N2gzNi40MTN2MTYuNjk0aC41MWEzOS45MDcgMzkuOTA3IDAgMCAxIDM1LjkyOC0xOS43MzNjMzguNDQ1IDAgNDUuNTMzIDI1LjI4OCA0NS41MzMgNTguMTg2bC0uMDE2IDY3LjAxM1pNNTYuOTU1IDc5LjI3Yy0xMi4xNTcuMDAyLTIyLjAxNC05Ljg1Mi0yMi4wMTYtMjIuMDA5LS4wMDItMTIuMTU3IDkuODUxLTIyLjAxNCAyMi4wMDgtMjIuMDE2IDEyLjE1Ny0uMDAzIDIyLjAxNCA5Ljg1MSAyMi4wMTYgMjIuMDA4QTIyLjAxMyAyMi4wMTMgMCAwIDEgNTYuOTU1IDc5LjI3bTE4Ljk2NiAxMzguODU4SDM3Ljk1Vjk1Ljk2N2gzNy45N3YxMjIuMTZaTTIzNy4wMzMuMDE4SDE4Ljg5QzguNTgtLjA5OC4xMjUgOC4xNjEtLjAwMSAxOC40NzF2MjE5LjA1M2MuMTIyIDEwLjMxNSA4LjU3NiAxOC41ODIgMTguODkgMTguNDc0aDIxOC4xNDRjMTAuMzM2LjEyOCAxOC44MjMtOC4xMzkgMTguOTY2LTE4LjQ3NFYxOC40NTRjLS4xNDctMTAuMzMtOC42MzUtMTguNTg4LTE4Ljk2Ni0xOC40NTMnIGZpbGw9JyNmZmYnLz48L3N2Zz4K&style=for-the-badge" alt="LinkedIn"></a>
+  <a href="https://x.com/ayux0_"><img src="https://img.shields.io/badge/Twitter-%23000000.svg?logo=X&logoColor=white&style=for-the-badge" alt="X/Twitter"></a>
+  <a href="https://www.instagram.com/ayush_2384/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" alt="Instagram"></a> 
+  <a href="[YOUR_CALENDLY_LINK](https://calendly.com/ayushawasthicoding)"><img src="https://img.shields.io/badge/Talk-006BFF?style=for-the-badge&logo=calendly&logoColor=white" alt="Calendly"></a></br>
+  <a href="https://kiyoai.in"><img src="https://img.shields.io/badge/Kiyo-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNzMyIiBoZWlnaHQ9Ijg3MyIgdmlld0JveD0iMCAwIDczMiA4NzMiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxwYXRoIGQ9Ik0wIDU2LjI4NTlDMCAyNS4yMDAxIDI1LjIgNy41MjI4NWUtMDUgNTYuMjg1OCA3LjUyMjg1ZS0wNUgxNTQuNzg2QzI0OC4wNDMgNy41MjI4NWUtMDUgMzIzLjY0MyA3NS42MDAxIDMyMy42NDMgMTY4Ljg1N1Y4MTYuMTQ0QzMyMy42NDMgODQ3LjIzIDI5OC40NDMgODcyLjQzIDI2Ny4zNTcgODcyLjQzSDE2OC44NTdDNzUuNiA4NzIuNDMgMCA3OTYuODMgMCA3MDMuNTcyVjU2LjI4NTlaIiBmaWxsPSJ3aGl0ZSIvPgo8cGF0aCBkPSJNNDA4LjA3MiAxNjguODU3QzQwOC4wNzIgNzUuNTk5OSA0ODMuNjcyIDAgNTc2LjkyOSAwSDY3NS40MjlDNzA2LjUxNSAwIDczMS43MTUgMjUuMiA3MzEuNzE1IDU2LjI4NThWMzIzLjY0M0M3MzEuNzE1IDQxNi45MDEgNjU2LjExNSA0OTIuNTAxIDU2Mi44NTggNDkyLjUwMUg0NjQuMzU4QzQzMy4yNzIgNDkyLjUwMSA0MDguMDcyIDQ2Ny4zMDEgNDA4LjA3MiA0MzYuMjE1VjE2OC44NTdaIiBmaWxsPSJ3aGl0ZSIvPgo8cGF0aCBkPSJNNDA4LjA3MiA2MzMuMjE1QzQwOC4wNzIgNjAyLjEyOSA0MzMuMjcyIDU3Ni45MjkgNDY0LjM1OCA1NzYuOTI5SDU2Mi44NThDNjU2LjExNSA1NzYuOTI5IDczMS43MTUgNjUyLjUyOSA3MzEuNzE1IDc0NS43ODdWODE2LjE0NEM3MzEuNzE1IDg0Ny4yMyA3MDYuNTE1IDg3Mi40MyA2NzUuNDI5IDg3Mi40M0g0NjQuMzU4QzQzMy4yNzIgODcyLjQzIDQwOC4wNzIgODQ3LjIzIDQwOC4wNzIgODE2LjE0NFY2MzMuMjE1WiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+Cg==&logoColor=white" alt="Kiyo"></a>
+<a href="https://vivax.in"><img src="https://img.shields.io/badge/Vivax-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTk0MiIgaGVpZ2h0PSIxMzQ1IiB2aWV3Qm94PSIwIDAgMTk0MiAxMzQ1IiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgo8cGF0aCBkPSJNNDE1IDcuNTAwMDNDMzkzLjUgNi45OTg1NiAwIDcuNTAwMDMgMCA3LjUwMDAzQzAgNy41MDAwMyAzNTcuODYgNjczLjQ2NCA2MTMuNSAxMDg0LjVDNjM5LjMwOCAxMTI2IDY1MS41IDExNTMgNjgwIDExOTAuNUw2ODIuNDQ0IDExOTMuNzJDNzA4LjYxNCAxMjI4LjE2IDcxMC44MTIgMTIzMS4wNSA3MzQgMTI1MkM3NjcuNDAyIDEyODIuMTggNzg5LjM3MyAxMjk4LjcgODMwLjUgMTMxN0M4NzEuNTI0IDEzMzUuMjUgODk3LjczMSAxMzM5LjU1IDk0Mi41IDEzNDNDOTkyLjc1MiAxMzQ2Ljg3IDEwMTEuNSAxMzQ1IDEwNzEgMTMzMUMxMTMwLjUgMTMxNyAxMTgyLjUgMTI3NC41IDEyMTAuNSAxMjUxLjVDMTIzOC41IDEyMjguNSAxMjYzIDExODQuNSAxMjYzIDExODQuNUMxMjYzIDExODQuNSA5MjcuMjExIDU4NC44NTYgNzAzIDIwNi41QzY3OSAxNjYgNjY1LjM3OSAxMzguMDIxIDYzMi41IDEwNC41QzYwNy4wMTQgNzguNTE1OCA1OTMuMjMzIDY5LjMyNTQgNTYxLjUgNTEuNTAwMUM1MzcuNzE1IDM4LjEzOTQgNTI4LjczMiAzMy41ODA0IDQ5Ny41IDIzLjVDNDY2LjI2OCAxMy40MTk2IDQzNi41IDguMDAxNDkgNDE1IDcuNTAwMDNaIiBmaWxsPSIjRkZGRkZGIi8+CjxwYXRoIGQ9Ik0xMjg5LjUgMTE0Ni41QzEzMDAuNSAxMTMzIDE5MzUuMTkgMTUuMDAwMSAxOTM5LjUgNy41MDAwM0MxOTQzLjgxIC01Ljk2MDQ2ZS0wNSAxOTM5LjUgMCAxOTM5LjUgMEMxOTM5LjUgMCAxNTY1LjUgMC4wMDA5NTkzOTYgMTUzOC41IDBDMTUxMS41IC0wLjAwMDk1OTMxOCAxNDY1LjUgMTQuNSAxNDY1LjUgMTQuNUMxNDY1LjUgMTQuNSAxMzkxLjc3IDM5LjM0MDcgMTM1My41IDY5LjUwMDFDMTMyNC41MiA5Mi4zMzY2IDEzMTAuNTMgMTA4LjY4MSAxMjg5LjUgMTM5QzEyNzIuMDggMTY0LjEyNSAxMjYyLjMgMTc5LjAzNyAxMjUyLjUgMjA4QzEyNDMuMDQgMjM1Ljk0NSAxMjQ0IDIzOS41MDIgMTI0MCAyODIuNTAyQzEyMzYgMzI1LjUwMiAxMjY5LjUgOTkwLjk5OSAxMjcwIDEwMDkuNUMxMjcwLjUgMTAyOCAxMjc2LjUgMTExMi41IDEyNzYuNSAxMTMzQzEyNzYuNSAxMTUzLjUgMTI3OC41IDExNjAgMTI4OS41IDExNDYuNVoiIGZpbGw9IiNGRkZGRkYiLz4KPC9zdmc+Cg==" alt="Vivax"></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AyushAwasthi2384&icon=8&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/ayush2384) 
+## 🚀 Vision & Scale
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+With over 7 years of deep engineering experience, I have moved beyond the syntax of individual programming languages. I don't just write code; I design ecosystems. My focus is entirely on robust systems architecture, high-availability infrastructure, and solving complex business bottlenecks. 
 
-<!---
-AyushAwasthi2384/AyushAwasthi2384 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+To date, I have successfully architected and shipped enterprise-grade solutions to **over 100+ clients**, ranging from agile, high-growth startups to large-scale enterprise stakeholders. 
+
+- 🏢 **Entrepreneurship:** Founder & CEO of **Kiyo** and **Vivax**. Driving product vision, system architecture, and commercial scaling.
+- 🌐 **Ecosystem Building:** President of the Amity Innovation Incubator Lucknow (AIIL), fostering the next generation of tech founders.
+- 🧠 **Research:** Active researcher pushing the boundaries of Agentic AI, XAI, and decentralized systems.
+
+## 🏗️ Systems Expertise & Delivery
+
+I am a language-agnostic architect. I build in whatever environment best suits the problem at hand. My core technical expertise lies in designing and scaling:
+
+- **Agentic AI & LLM Orchestration:** Building autonomous workflows, specialized AI agents, and intelligent decision engines.
+- **Enterprise Ecosystems:** Architecting scalable, high-concurrency ERPs, operational pipelines, and CRM platforms.
+- **Decentralized Architectures:** Researching and implementing resilient Web3 and blockchain-based solutions.
+- **B2B SaaS Platforms:** Leading end-to-end full-cycle product development with a strict focus on fault-tolerant infrastructure and high-fidelity, minimalist design aesthetics.
+
+## 🚀 What I'm Building Currently
+
+- **Kiyo:** Pushing the envelope on our core AI platform. We recently crushed our Alpha testing phase and delivered our first major public pitch. (Visit [kiyoai.in](https://kiyoai.in))
+- **Vivax:** Architecting and delivering scalable technology solutions and robust enterprise systems. (Visit [vivax.in](https://vivax.in))
+
+## 📄 Research & Publications
+
+My architectural mindset extends into academic and applied research, focusing on practical AI integration, system benchmarking, and Web3:
+- **XAI & Agentic AI:** Published *"AGENT-X-BENCH: A Robust Meta-Benchmark for Evaluating Causal and Adversarial Explainability in Agentic AI"* at ICCNSML.
+- **Healthcare Innovation:** Published *"Next-Generation Healthcare: Leveraging Generative AI for Patient-Centric Services"* at ICCCIS.
+- **Current Focus:** Alongside ongoing publications in advanced AI, I am currently researching and architecting solutions in blockchain and decentralized technologies.
+
+---
+
+## 📊 Performance Metrics
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=AyushAwasthi2384&theme=vision-friendly-dark" alt="AyushAwasthi2384's Streak" />
+</p>
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=AyushAwasthi2384&theme=matrix&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</p>
+
+---
+
+<p align="center">
+ 
+ ![](https://komarev.com/ghpvc/?username=AyushAwasthi2384)
+</p>
